@@ -1,7 +1,7 @@
 # devopsJourney
-This repo contains the my journey experience towards learning Devops  
+This repo contains the my journey experiences regarding learning Devops.   
 
-I Followed Kunal Kushwaha, Tech World with Nana, Saiyam pathak &amp; Andrew Brown
+I am Following Kunal Kushwaha, Tech World with Nana, Saiyam pathak &amp; Andrew Brown  
 
 
 # OS(Linux)
